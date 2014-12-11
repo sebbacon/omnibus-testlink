@@ -1,0 +1,9 @@
+#!/bin/bash
+#
+# Perform necessary testlink removal steps
+# after package is uninstalled.
+#
+
+echo "testlink has been uninstalled!"
+
+exit 0

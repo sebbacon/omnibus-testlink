@@ -1,0 +1,14 @@
+.bundle
+db/*.sqlite3
+log/*.log
+log/*.log.*
+tmp/**/*
+.DS_Store
+*~
+*#
+TAGS
+pkg
+local
+vendor
+bin
+.kitchen
